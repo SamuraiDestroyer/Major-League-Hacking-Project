@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Call Of Duty YouTube</title>
+        <style>
+            .background{
+                background-image: url("https://i.pinimg.com/originals/7c/de/86/7cde86c772a4f4bbdd55c598b1df6aa5.jpg");
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-size: cover;
+            }
+
+            body {
+              width: 5000px;
+              overflow-x: hidden;
+            }
+
+            a {
+              text-decoration: none;
+              color: red;
+            }
+
+            a:hover {
+              text-decoration: underline;
+              color: green;
+            }
+
+            div {
+              color: red;
+              height: 0px;
+              width: 1000px;
+              font-size: 20px;
+            }
+        </style>
+    </head>
+
+    <body class="background">
+        <span>
+            <img width="200" src="https://applegeniuses.files.wordpress.com/2013/02/call_of_duty_logo.png" alt="Call Of Duty logo"/>
+            <a href="https://callofduty.fandom.com/wiki/Call_of_Duty_Wiki" target="_blank">
+              <img width="50" src="https://i.pinimg.com/originals/53/bc/98/53bc98432dfac1e6753b6f8d11470bf0.png" alt="Call Of Duty symbol"/>
+            </a>
+        </span>
+
+        <h3 style="position: relative; bottom: 60px; left: 620px; color: red;">Search</h3>
+        <input style="position: relative; bottom: 100px; left: 680px;" type="search"/>
+
+        <search style="position: relative; bottom: 100px; left: 681px;">
+            <button><img width="10" src="https://cdn0.iconfinder.com/data/icons/web-basics-2/24/search-512.png" alt="Search Icon"/></button>
+        </search>
+
+        <button style="position: relative; bottom: 100px; left: 1160px;">Log In</button>
+        <button style="position: relative; bottom: 100px; left: 1180px;">Sign Up</button>
+
+        <hr style="position: relative; bottom: 70px;"></hr>
+
+        <p style="color: blue; position: relative; bottom: 70px">Call Of Duty's Greatest Characters</p>
+        <ul>
+            <li style="position: relative; bottom: 65px"><a href="https://callofduty.fandom.com/wiki/John_Price" target="_blank">Captain John Price</a></li>
+            <li style="position: relative; bottom: 60px"><a href="https://callofduty.fandom.com/wiki/John_%22Soap%22_MacTavish" target="_blank">Captain John "Soap" MacTavish</a></li>
+            <li style="position: relative; bottom: 55px"><a href="https://callofduty.fandom.com/wiki/Simon_%22Ghost%22_Riley" target="_blank">Simon "Ghost" Riley</a></li>
+            <li style="position: relative; bottom: 50px"><a href="https://callofduty.fandom.com/wiki/Kyle_%22Gaz%22_Garrick" target="_blank">Kyle "Gaz" Garrick</a></li>
+            <li style="position: relative; bottom: 45px"><a href="https://callofduty.fandom.com/wiki/Viktor_Reznov" target="_blank">Captain Viktor Reznov</a></li>
+            <li style="position: relative; bottom: 40px"><a href="https://callofduty.fandom.com/wiki/Shepherd" target="_blank">Lieutenant General Shepherd" Riley</a></li>
+            <li style="position: relative; bottom: 35px"><a href="https://callofduty.fandom.com/wiki/David_%22Section%22_Mason" target="_blank">Lieutenant Commander David Mason</a></li>
+            <li style="position: relative; bottom: 30px"><a href="https://callofduty.fandom.com/wiki/Alex_Mason" target="_blank">Captain Alex Mason</a></li>
+            <li style="position: relative; bottom: 25px"><a href="https://callofduty.fandom.com/wiki/Vladimir_Makarov" target="_blank">Vladimir Makarov</a></li>
+            <li style="position: relative; bottom: 20px"><a href="https://callofduty.fandom.com/wiki/Raul_Menendez" target="_blank">Raul Menendez</a></li>
+            <li style="position: relative; bottom: 15px"><a href="https://callofduty.fandom.com/wiki/Frank_Woods" target="_blank">Master Sergeant Frank Woods</a></li>
+            <li style="position: relative; bottom: 10px"><a href="https://callofduty.fandom.com/wiki/Ronald_%22Red%22_Daniels" target="_blank">Corporal Ronald "Red" Daniels</a></li>
+            <li style="position: relative; bottom: 5px"><a href="https://callofduty.fandom.com/wiki/Farah_Karim" target="_blank">Commander Farah Ahmed Karim</a></li>
+            <li style="position: relative; bottom: 0px"><a href="https://callofduty.fandom.com/wiki/Jason_Hudson" target="_blank">Special Agent Jason Hudson </a></li>
+            <li style="position: relative; bottom: -5px"><a href="https://callofduty.fandom.com/wiki/Gary_%22Roach%22_Sanderson" target="_blank">Sergeant Gary "Roach" Sanderson</a></li>
+        </ul>
+
+        <hr></hr>
+
+        <a href="https://www.youtube.com/embed/olMha2xih-0" target="_blank">
+            <img width="300" src="http://4.bp.blogspot.com/-4UO6qbP7iHQ/UTbD337xm1I/AAAAAAAANQo/grMmtzpzjI4/s1600/call_of_duty_black_ops-wide.jpg"/>
+        </a>
+        <a href="https://www.youtube.com/embed/olMha2xih-0" target="_blank">
+            <span style="position: relative; bottom: 170px; left: 25px; color: blue;"><strong>Call Of Duty Black Ops</strong></span>
+            <div style="position: relative; bottom: 150px; left: 325px;"><strong>Black Ops</strong>: Between 1961 and 1968 during both the Cold War and the Vietnam War, 16 years to 23 years after the events of World at War. It reveals a secret history of CIA clandestine black operations carried out behind enemy lines. The missions take place in various locations around the globe such as the Ural Mountains, Kazakhstan, Cuba, Hong Kong, Laos, South Vietnam, the Arctic Circle and Siberia. The reasons behind those missions revolve around an experimental chemical weapon codenamed "Nova-6". This weapon is bound to be used by sleeper agents in the United States, who are infused with sequences of numbers, once broadcasts are transmitted from an unknown numbers station.</div>
+        </a>
+
+        <hr></hr>
+
+        <a href="https://www.youtube.com/embed/O1Waxbax_6o" target="_blank">
+            <img width="300" src="http://1.bp.blogspot.com/-cc5IdtoZ2hw/Ul66u2vVXjI/AAAAAAAAA3M/DE_m_u5AQXc/s1600/Call+Of+Duty+Black+Ops+II+11+%255BWalls720%255D.png"/>
+        </a>
+        <a href="https://www.youtube.com/embed/O1Waxbax_6o" target="_blank">
+            <span style="position: relative; bottom: 150px; left: 25px; color: blue;"><strong>Call Of Duty Black Ops 2</strong></span>
+            <div style="position: relative; bottom: 130px; left: 325px;"><strong>Black Ops 2</strong>: Between 1986 to 1989 during the final years of the First Cold War, and later years in 2025 during a Second Cold War, Rare earths trade dispute, and chronicles the rise to infamy, Raul Menendez (Kamar de los Reyes). Rual Menendez
+is plotting against the United States and China with one of his ultimate goals being to see the United States locked in a new Cold War with China, in revenge for many of his misfortunes. In this era, wars are defined by robotics, cyberwarfare, unmanned vehicles, and other futuristic technology.</div>
+        </a>
+
+        <hr></hr>
+
+        <a href="https://www.youtube.com/embed/pj_q9JhyxUg" target="_blank">
+            <img width="300" src="https://thegamefanatics.com/wp-content/uploads/2015/11/Call_of_Duty_BO3.jpg"/>
+        </a>
+        <a href="https://www.youtube.com/embed/pj_q9JhyxUg" target="_blank">
+            <span style="position: relative; bottom: 200px; left: 25px; color: blue;"><strong>Call Of Duty Black Ops 3</strong></span>
+            <div style="position: relative; bottom: 180px; left: 325px;"><strong>Black Ops 3</strong>: 40 years after the events of Black Ops II. In 2065, in a world facing upheaval from conflicts, climate change and new technologies. A Third Cold War is ongoing between two global alliances, known as the Winslow Accord and the Common Defense Pact. In response to the drone assaults caused by the Nicaraguan narco-terrorist Raul Menendez on June 19, 2025, several countries around the world have developed Directed Energy Air Defense systems that render conventional air forces virtually useless. As such, most of the warfare between countries is done by covert operatives fighting behind enemy lines. Military technology has progressed to the point where robotics play a major role in combat, and both fully robotic humanoid drones and cyborg supersoldiers have been developed to fight in the battlefield. There is speculation and fear about an eventual robotic takeover.</div>
+        </a>
+        </a>
+
+        <hr></hr>
+
+        <a href="https://www.youtube.com/embed/h9XOJhEJlJg" target="_blank">
+            <img width="300" src="https://findyourinnergeek.ca/wp-content/uploads/2018/10/Call-of-Duty%C2%AE_-Black-Ops-4_20181015130712.jpg" target="_blank"/>
+        </a>
+        <a href="https://www.youtube.com/embed/h9XOJhEJlJg" target="_blank">
+            <span style="position: relative; bottom: 150px; left: 25px; color: blue;"><strong>Call Of Duty Black Ops 4</strong></span>
+            <div style="position: relative; bottom: 140px; left: 325px;"><strong>Black Ops 4</strong>: In the year 2043, during a covert mission involving a mercenary group, Jessica Mason-Green (Alexa Kahn), a US Army Specialist is presumably killed while her two squad mates, Donnie "Ruin" Walsh (Christian Rummel) and Erin "Battery" Baker (Morla Gorrondona) escape with critical injuries. Two years later, Savannah Mason-Meyer (Evangeline Lilly), a trillionaire researcher and Jessica's sister, recruits ten of the world's most elite soldiers, including Ruin and Battery, for a top-secret project against an unknown threat. Savannah uses a Combat Immersion program to train the Specialists in a virtual simulation, with Sergeant Frank Woods (James C. Burns) acting as their instructor.</div>
+        </a>
+
+        <hr></hr>
+
+        <a href="https://www.youtube.com/embed/2FqXgFgxHOo" target="_blank">
+            <img width="300" src="http://www.gamingthrill.com/wp-content/uploads/2021/03/black-ops-cold-war-1024x576.jpg"/>
+        </a>
+        <a href="https://www.youtube.com/embed/2FqXgFgxHOo" target="_blank">
+            <span style="position: relative; bottom: 150px; left: 25px; color: blue;"><strong>Call Of Duty Black Ops Cold War</strong></span>
+            <div style="position: relative; bottom: 140px; left: 325px;"><strong>Black Ops Cold War</strong>: In January 1981, CIA SAD/SOG operatives Russell Adler, Alex Mason, and Frank Woods are sent to target Qasim Javadi and Arash Kadivar for their roles in the Iran hostage crisis. With intelligence gained from interrogating Qasim, the team tracks Arash to Turkey. Arash boasts that Perseus was the one responsible for organizing the hostage crisis before being executed. US President Ronald Reagan authorizes a black operation team to neutralize Perseus after being briefed of his threat by Jason Hudson and Adler.</div>
+        </a>
+
+        <hr></hr>
+
+        <a href="https://www.youtube.com/embed/X99Rq2wIm4o" target="_blank">
+            <img width="300" src="https://tyroneeagleeyenews.com/wp-content/uploads/2017/11/Call-of-Duty-WWII-final-900x600.jpg"/>
+        </a>
+        <a href="https://www.youtube.com/embed/X99Rq2wIm4o" target="_blank">
+            <span style="position: relative; bottom: 180px; left: 25px; color: blue;"><strong>Call Of Duty WW2</strong></span>
+            <div style="position: relative; bottom: 160px; left: 325px;"><strong>WW2</strong>: On June 6, 1944, The U.S. Army and the Allied Forces had launched an invasion against Nazi Germany in Europe. U.S. Army Private First Class Ronald "Red" Daniels (Brett Zimmerman), of the 1st Infantry Division, takes part in the Normandy landings (D-Day) with his platoon, consisting of Private First Class Robert Zussman (Jonathan Tucker), Private Drew Stiles (Kevin Coubal), Technician Fifth Grade Frank Aiello (Jeff Schine), Technical Sergeant William Pierson (Josh Duhamel) and First Lieutenant Joseph Turner (Jeffrey Pierce).</div>
+        </a>
+
+        <hr></hr>
+
+        <a href="https://www.youtube.com/embed/Ax5LZQ0mp7E" target="_blank">
+            <img width="300" src="https://1.bp.blogspot.com/-NQv4HqKzDwc/XTUvZj-qUtI/AAAAAAAAB0o/2sssxkDd_14BfsDVKYfNUnoFucs-ZD_QgCLcBGAs/s1600/2426731-2209783-box_cod4.png"/>
+        </a>
+        <a href="https://www.youtube.com/embed/Ax5LZQ0mp7E" target="_blank">
+            <span style="position: relative; bottom: 280px; left: 25px; color: blue;"><strong>Call Of Duty 4 Modern Warfare</strong></span>
+            <div style="position: relative; bottom: 260px; left: 325px;"><strong>4 Modern Warfare</strong>: In 2011, a civil war breaks out in Russia between its government and Ultranationalists. Meanwhile, a separatist group led by Khaled Al-Asad, who holds anti-Western views, seizes power in an unnamed country in the Middle East through a coup d'état. In response, the United States invades the country. A platoon of U.S. Marines from 1st Force Recon Co, led by Lieutenant Vasquez, fail to capture Al-Asad and later engage in urban combat in a nearby city with support from an M1 Abrams tank.</div>
+        </a>
+
+        <hr></hr>
+
+        <a href="https://www.youtube.com/embed/KQQ9bYrUyPg" target="_blank">
+            <img width="300" src="http://1.bp.blogspot.com/_Mqh06Ppl0k8/TSdX_AlS0hI/AAAAAAAAABU/CFKqI9xNkdw/s1600/call_of_duty_modern_warfare_2-normal%255B1%255D.jpg"/>
+        </a>
+        <a href="https://www.youtube.com/embed/KQQ9bYrUyPg" target="_blank">
+            <span style="position: relative; bottom: 205px; left: 25px; color: blue;"><strong>Call Of Duty Modern Warfare 2</strong></span>
+            <div style="position: relative; bottom: 190px; left: 325px;"><strong>Modern Warfare 2</strong>: Despite the events of Call Of Duty 4 Modern Warfare preventing a nuclear war, the Ultranationalists ultimately seize control of Russia and Imran Zakhaev becomes a martyr. Diplomatic relations with the United States plummet as a result, while Vladimir Makarov, an Ultranationalist extremist and Zakhaev's protege, commits to a five-year campaign of vengeance against the West with acts of terrorism. In 2016, Private First Class Joseph Allen, whose actions in Afghanistan impress U.S. Army General Shepherd, is embedded into Makarov's team, who commit a mass shooting at an airport in Moscow, killing multiple Russian civilians. Makarov, aware of Allen's true identity, kills the American, leaving his body at the airport to implicate the United States in a false flag operation..</div>
+        </a>
+
+        <hr></hr>
+
+        <a href="https://www.youtube.com/embed/0dn10Fsj_Pg" target="_blank">
+            <img width="300" src="https://www.digiseller.ru/preview/186848/p1_2068385_d7724291.jpg"/>
+        </a>
+        <a href="https://www.youtube.com/embed/0dn10Fsj_Pg" target="_blank">
+            <span style="position: relative; bottom: 150px; left: 25px; color: blue;"><strong>Call Of Duty Modern Warfare 3</strong></span>
+            <div style="position: relative; bottom: 140px; left: 325px;"><strong>Modern Warfare 3</strong>: Immediately following the events of the previous game, Soap is extracted to a Russian loyalist safehouse in Himachal Pradesh, alongside Price and Nikolai. Makarov's forces, however, arrive soon after, prompting the now-disbanded Task Force 141 members to flee with assistance from Yuri, one of Nikolai's associates who shares a common grudge against Makarov.</div>
+        </a>
+
+        <hr></hr>
+
+        <a href="https://www.youtube.com/embed/Q0Wy_fjXLdc" target="_blank">
+            <img width="300" src="https://hdqwalls.com/wallpapers/call-of-duty-modern-warfare-remastered-2019-4k-ow.jpg"/>
+        </a>
+        <a href="https://www.youtube.com/embed/Q0Wy_fjXLdc" target="_blank">
+            <span style="position: relative; bottom: 185px; left: 25px; color: blue;"><strong>Call Of Duty Modern Warfare</strong></span>
+            <div style="position: relative; bottom: 170px; left: 325px; font-size: 18px;"><strong>Modern Warfare</strong>: In 2019, during a covert operation in Verdansk, Kastovia to recover shipments of dangerous chemical gas headed for Urzikstan, CIA SAC/SOG officer “Alex” is intercepted by unknown hostiles who kill the Marine Raiders accompanying him, and escape with the gas. Alex's handler, Station Chief Kate Laswell, requests the assistance of SAS Captain John Price in recovering the chemicals and de-escalating the situation with Russia. Twenty-four hours later, a group of suicide bombers, affiliated with the terrorist organization Al-Qatala, attack Piccadilly Circus in London. SAS Sergeant Kyle "Gaz" Garrick, who has been following the suspected terrorists with his team, is dispatched to contain the situation with the assistance of Price and local police forces. Afterwards, Alex is sent to Urzikstan to meet up with rebel leader Farah Karim. She agrees to join forces in tracking down the chemicals, in exchange for his aid in overthrowing Russian forces led by General Roman Barkov.</div>
+        </a>
+
+        <hr></hr>
+
+        <a href="https://www.youtube.com/embed/ArVpXBW2QRM" target="_blank">
+            <img width="300" src="https://gotgame.com/wp-content/uploads/2014/10/call-of-duty-advanced-warfare.jpg"/>
+        </a>
+        <a href="https://www.youtube.com/embed/ArVpXBW2QRM" target="_blank">
+            <span style="position: relative; bottom: 150px; left: 25px; color: blue;"><strong>Call Of Duty Advanced Warfare</strong></span>
+            <div style="position: relative; bottom: 140px; left: 325px;"><strong>Advanced Warfare</strong>: In 2054, U.S. Marines PFC Jackson "Jack" Mitchell (Troy Baker) and Private William "Will" Irons (Paul Telfer) take part in an operation to repel a North Korean invasion of Seoul, under the command of Sergeant Cormack (Russell Richardson). During the firefight, Will is killed and Mitchell loses his arm, resulting in him being discharged from military service. After attending Will's funeral, Mitchell is offered a position in the Atlas Corporation, a private military company, by CEO Jonathan Irons (Kevin Spacey), Will's father, and is also given an advanced prosthetic arm to replace his lost one.</div>
+        </a>
+
+        <hr></hr>
+
+        <a href="https://www.youtube.com/embed/pRhNwRzdO4g" target="_blank">
+            <img width="300" src="https://cdn.wccftech.com/wp-content/uploads/2016/07/infinitewarfare.png"/>
+        </a>
+        <a href="https://www.youtube.com/embed/pRhNwRzdO4g" target="_blank">
+            <span style="position: relative; bottom: 150px; left: 25px; color: blue;"><strong>Call Of Duty Infinite Warfare</strong></span>
+            <div style="position: relative; bottom: 140px; left: 325px; font-size: 15px;"><strong>Infinite Warfare</strong>: Infinite Warfare is set in the distant future, after Earth has been stripped of its natural resources as a result of population growth and industrial expansion, prompting the nations of the world to unite and form the United Nations Space Alliance (UNSA), a political organization that handles matters of trade, travel, land claims and all efforts relating to human space colonization. The residents of Earth rely on colonies established elsewhere in the Solar System in order to mine planets and asteroids for resources. The value of these outposts, however, attracts militant radicals who seek to control them, which could place the countries of Earth in a difficult position. In response, the UNSA is defended by the Solar Associated Treaty Organization (SATO), a coordinated military structure that defends Earth and the UNSA's holdings. Prior to the events of the game, a new hostile faction emerges on Mars, calling themselves the Settlement Defense Front (SDF), a totalitarian government consisting of former UNSA colonies that broke away during a previous war of secession. Following years of a troubled stalemate with the Front, relations have deteriorated to a point where the entire Solar System is poised on the brink of war.</div>
+        </a>
+
+        <hr></hr>
+
+        <a href="https://www.youtube.com/embed/Nq51KH02bp4" target="_blank">
+            <img width="300" src="https://wallpapercave.com/wp/TGCnJa6.jpg"/>
+        </a>
+        <a href="https://www.youtube.com/embed/Nq51KH02bp4" target="_blank">
+            <span style="position: relative; bottom: 180px; left: 25px; color: blue;"><strong>Call Of Duty Ghosts</strong></span>
+            <div style="position: relative; bottom: 170px; left: 325px;"><strong>Ghosts</strong>: Call of Duty: Ghosts is set in the near future that follows the nuclear destruction of the Middle East. The oil-producing nations of South America form the Federation of the Americas in response to the ensuing global economic crisis and quickly grow into a global superpower, swiftly invading and conquering Central America, the Caribbean, and Mexico.</div>
+        </a>
+
+        <hr></hr>
+
+        <a href="https://www.youtube.com/embed/GtnLfj3hrCo" target="_blank">
+            <img width="300" src="https://www.dsogaming.com/wp-content/uploads/2021/08/Call-of-Duty-Vanguard-feature.jpg"/>
+        </a>
+        <a href="https://www.youtube.com/embed/GtnLfj3hrCo" target="_blank">
+            <span style="position: relative; bottom: 175px; left: 25px; color: blue;"><strong>Call Of Duty Vanguard</strong></span>
+            <div style="position: relative; bottom: 160px; left: 325px; font-size: 17px"><strong>Vanguard</strong>: In August 1941, 2nd Lieutenant Lucas Riggs is stationed at Tobruk, Libya as part of the Australian-led Rats of Tobruk garrison. After a failed ambush attempt against a German Afrika Korps convoy, Riggs is assigned to recover supplies for the British Army, alongside fellow Rat Private Desmond "Des" Wilmot and British Lieutenant Richard Jacobs. Riggs, Des and Jacobs manage to find intelligence relating to General Erwin Rommel, and destroy an enemy depot in the process, but they were detained by Major Henry Hamms for insubordination. In October 1942, during the Second Battle of El Alamein, Riggs and the Rats are ordered by Hamms to form a defensive line, but Riggs disobeys the command and tries to retake a hill and call in bomber support with Des supporting him. The two of them succeed, though Des is killed in action. Angered by the disregard for the Rats' contribution to the fight, Riggs punches Hamms out of frustration, resulting in him facing prison time.</div>
+        </a>
+
+        <hr></hr>
+
+        <a href="https://www.youtube.com/embed/DzDUI8wN9Qw" target="_blank">
+            <img width="300" src="https://i.ytimg.com/vi/xy21OdoYOuA/maxresdefault.jpg"/>
+        </a>
+        <a href="https://www.youtube.com/embed/DzDUI8wN9Qw" target="_blank">
+            <span style="position: relative; bottom: 150px; left: 25px; color: blue;"><strong>Call Of Duty World At War</strong></span>
+            <div style="position: relative; bottom: 140px; left: 325px; font-size: 15px"><strong>World At War</strong>: In 1941, The U.S. has entered the war in the event of WW2. On Makin Island on August 17, 1942. U.S. Marine Private First Class C. Miller watches the torture and execution of his team and is about to be executed himself before being rescued by another squad of Marines, led by Corporal Roebuck and Sergeant Tom Sullivan. They then initiate the Makin Island raid, assaulting the Japanese positions on the island. Two years later, Miller's unit then participates in the Battle of Peleliu. After breaking through the Japanese lines on the Peleliu beach, Miller destroys two Type 97 Chi-Ha tanks with rocket strikes, allowing the American tanks to advance. At the end of the mission, Sullivan is fatally stabbed by a Japanese officer with a gunto. Roebuck is promoted to Sergeant and he and his squad make their way through the Peleliu swamps to launch an assault on a Japanese-held airfield to disable anti-aircraft guns. During the assault, Miller acquires a flamethrower to destroy a bunker and a bazooka to blow up the Chi-Has positioned at the airfield.</div>
+        </a>
+    </body>
+</html>
